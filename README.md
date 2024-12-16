@@ -29,6 +29,6 @@
 
 -------
 
-![Scharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=scharlesdesouza&show_icons=true&theme=dracula)
+[Scharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=scharlesdesouza&show_icons=true&theme=dracula)
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scharlesdesouza&layout=compact&langs_count=7&theme=dracula"/>
