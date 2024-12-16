@@ -18,8 +18,13 @@
 
 ### Estudos:
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqYSpdQfHJCy9YvJa2aAYBlOKOxMxlaTr9w&s" width="100" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqYSpdQfHJCy9YvJa2aAYBlOKOxMxlaTr9w&s" width="100" />
+</p>
 
 -------
 
