@@ -10,7 +10,7 @@
 
 💉 Técnico de enfermagem desde 2006
 
- 📫 ![Meu LinkedIn](www.linkedin.com/in/scharles-de-souza-1999a1229)
+ 📫 [Meu LinkedIn](https://www.linkedin.com/in/scharles-de-souza-1999a1229)
 
 
 --------
@@ -29,6 +29,6 @@
 
 -------
 
-[Scharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=scharlesdesouza&show_icons=true&theme=dracula)
+![Scharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=scharlesdesouza&show_icons=true&theme=dracula)
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scharlesdesouza&layout=compact&langs_count=7&theme=dracula"/>
