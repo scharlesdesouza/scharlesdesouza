@@ -24,6 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqYSpdQfHJCy9YvJa2aAYBlOKOxMxlaTr9w&s" width="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100" />
 </p>
 
 -------
