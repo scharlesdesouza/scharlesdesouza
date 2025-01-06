@@ -6,7 +6,7 @@
 
 👨 Me chamo Scharles de Souza!
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas, Pós graduado em Ciências de Dados e Seurança da Informação!
+🎓 Formado em Análise e Desenvolvimento de Sistemas, Pós graduado em Ciências de Dados e Segurança da Informação!
 
 💉 Técnico de enfermagem desde 2006
 
